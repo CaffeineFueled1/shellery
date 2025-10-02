@@ -1,0 +1,7 @@
+# Ignore content in output directory
+output/*
+!output/.gitkeep
+
+# Ignore content in images directory
+images/*
+!images/.gitkeep
