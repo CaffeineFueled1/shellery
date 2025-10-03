@@ -5,8 +5,7 @@ Simple SSG to create dynamic gallery one-pagers in your shell! Shell+Gallery
 [Issue Tracker and Requests](https://git.uphillsecurity.com/cf7/shellery/issues)
 
 - Status: Beta
-- Instance/ Demo: 
-- Inspired by
+- Instance/ Demo: [schief-117.com](https://schief-117.com/)
 
 ---
 
@@ -59,6 +58,12 @@ docker run -v $(pwd)/images:/app/images -v $(pwd)/output:/app/output localhost/s
 ```
 
 The generated gallery will be in `./output/index.html`
+
+---
+
+## Notes
+
+- [Github Mirror](https://github.com/CaffeineFueled1/shellery)
 
 ---
 
